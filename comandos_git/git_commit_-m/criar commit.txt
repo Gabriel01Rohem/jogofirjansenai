@@ -1,0 +1,1 @@
+Git commit -m  Permite que você crie um commit, ou seja, você consegue guardar o estado do seu repositório naquele momento

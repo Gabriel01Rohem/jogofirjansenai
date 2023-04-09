@@ -1,0 +1,1 @@
+Git status  apenas gera informações, não modificará confirmações ou alteraçõesem seu repositório local

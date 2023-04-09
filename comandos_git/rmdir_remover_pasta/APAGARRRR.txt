@@ -1,0 +1,1 @@
+rmdir  excluir pasta pelo git

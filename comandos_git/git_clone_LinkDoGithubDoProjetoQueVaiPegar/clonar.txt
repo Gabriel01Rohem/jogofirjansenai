@@ -1,0 +1,1 @@
+git clone "link"   clonar um arquivo que esta no github

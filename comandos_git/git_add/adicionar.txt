@@ -1,0 +1,1 @@
+Git add  realiza a inclusão ou modificação do arquivo no diretório local, preparando ele para ser entregue ao servidor remoto
