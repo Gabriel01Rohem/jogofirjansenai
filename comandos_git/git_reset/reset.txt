@@ -1,0 +1,1 @@
+Git reset    um comando poderoso usado para desfazer alterações locais no estado de um repositório Git

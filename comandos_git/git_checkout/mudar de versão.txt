@@ -1,0 +1,1 @@
+Git checkout    ato de alternar entre diferentes versões
